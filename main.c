@@ -3,10 +3,9 @@
 
 int main()
 {
-    float n;
-   printf("enter a dollar and cents amount \n");
-   scanf("%f",&n);
-   printf("your money after %5 tax = %.2f",n+(n*0.05));
+    printf("My name is mawada\n");
+    printf("i am born in 23-12-2004 \n");
+    printf("I am in the college of engineering and i will graduate in 2027\n");
 
     return 0;
 }
