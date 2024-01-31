@@ -3,9 +3,10 @@
 
 int main()
 {
-    printf("My name is mawada\n");
-    printf("i am born in 23-12-2004 \n");
-    printf("I am in the college of engineering and i will graduate in 2027\n");
+    int n;
+    printf("please enter any value: \n");
+    scanf("%d",&n);
+    printf("you entered: %d",n);
 
     return 0;
 }
